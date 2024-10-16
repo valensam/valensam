@@ -1,0 +1,71 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  background-color: #2C3E50; /* Fondo oscuro similar al de la imagen */
+  color: #ECF0F1; /* Texto claro para resaltar sobre fondo oscuro */
+}
+
+h1, h2 {
+  text-align: center;
+  color: #27AE60; /* Verde predominante */
+}
+
+form {
+  margin-bottom: 20px;
+  background-color: #34495E; /* Fondo oscuro del formulario */
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
+}
+
+label {
+  display: block;
+  margin: 10px 0 5px;
+  color: #BDC3C7; /* Texto gris claro para diferenciarse del fondo */
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #27AE60; /* Borde verde */
+  border-radius: 5px;
+  background-color: #2C3E50; /* Fondo del input */
+  color: #ECF0F1; /* Texto claro */
+}
+
+button {
+  background-color: #27AE60; /* Botón verde */
+  color: white;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #1E8449; /* Cambio de color al pasar el mouse */
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+  background-color: #34495E; /* Fondo de la tabla */
+}
+
+th, td {
+  padding: 10px;
+  border: 1px solid #27AE60; /* Bordes verdes */
+  text-align: center;
+  color: #ECF0F1; /* Texto claro */
+}
+
+th {
+  background-color: #27AE60; /* Fondo de encabezado verde */
+  color: white;
+}
+
+
+
+
